@@ -1,0 +1,6 @@
+../Task/MyData.c:126:6:u8g2_Init	8	static
+../Task/MyData.c:139:6:u8g2_Clear	8	static
+../Task/MyData.c:146:6:ui_right	0	static
+../Task/MyData.c:156:6:ui_left	0	static
+../Task/MyData.c:167:6:ui_up	0	static
+../Task/MyData.c:177:6:ui_down	0	static

@@ -1,0 +1,6 @@
+../Lib/IR_rec/IR_rec.c:28:6:IR_Init	8	static
+../Lib/IR_rec/IR_rec.c:48:6:HAL_TIM_IC_CaptureCallback	16	static
+../Lib/IR_rec/IR_rec.c:128:9:IR_GetData	0	static
+../Lib/IR_rec/IR_rec.c:152:10:IR_GetAddress	0	static
+../Lib/IR_rec/IR_rec.c:171:10:IR_GetCommand	0	static
+../Lib/IR_rec/IR_rec.c:192:9:IR_GetRepeatFlag	0	static

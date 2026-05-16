@@ -1,0 +1,4 @@
+../Task/ShowCalendar.c:11:5:judge_year	0	static
+../Task/ShowCalendar.c:24:5:judge_week	12	static
+../Task/ShowCalendar.c:46:5:month_run	0	static
+../Task/ShowCalendar.c:68:6:ShowCalendarTask	248	static

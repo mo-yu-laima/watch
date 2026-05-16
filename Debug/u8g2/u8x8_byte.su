@@ -1,0 +1,14 @@
+../u8g2/u8x8_byte.c:40:9:u8x8_byte_SetDC	4	static
+../u8g2/u8x8_byte.c:45:9:u8x8_byte_SendBytes	4	static
+../u8g2/u8x8_byte.c:50:9:u8x8_byte_SendByte	16	static
+../u8g2/u8x8_byte.c:55:9:u8x8_byte_StartTransfer	4	static
+../u8g2/u8x8_byte.c:60:9:u8x8_byte_EndTransfer	4	static
+../u8g2/u8x8_byte.c:67:9:u8x8_byte_empty	0	static
+../u8g2/u8x8_byte.c:108:9:u8x8_byte_4wire_sw_spi	32	static
+../u8g2/u8x8_byte.c:167:9:u8x8_byte_8bit_6800mode	24	static
+../u8g2/u8x8_byte.c:217:9:u8x8_byte_8bit_8080mode	24	static
+../u8g2/u8x8_byte.c:269:9:u8x8_byte_3wire_sw_spi	40	static
+../u8g2/u8x8_byte.c:332:6:u8x8_byte_set_ks0108_cs	16	static
+../u8g2/u8x8_byte.c:342:9:u8x8_byte_ks0108	24	static
+../u8g2/u8x8_byte.c:398:9:u8x8_byte_sed1520	32	static
+../u8g2/u8x8_byte.c:614:9:u8x8_byte_hw_i2c	24	static

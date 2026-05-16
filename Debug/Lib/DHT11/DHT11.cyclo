@@ -1,0 +1,7 @@
+../Lib/DHT11/DHT11.c:12:10:DHT11_OUT	1
+../Lib/DHT11/DHT11.c:21:10:DHT11_IN	1
+../Lib/DHT11/DHT11.c:36:6:delay_us	9
+../Lib/DHT11/DHT11.c:85:6:DHT11_Start	1
+../Lib/DHT11/DHT11.c:110:9:DHT11_check_state	5
+../Lib/DHT11/DHT11.c:142:9:DHT11_Read_Byte	8
+../Lib/DHT11/DHT11.c:188:9:DHT11_ReadData	4

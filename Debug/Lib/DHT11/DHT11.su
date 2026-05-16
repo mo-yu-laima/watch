@@ -1,0 +1,7 @@
+../Lib/DHT11/DHT11.c:12:10:DHT11_OUT	8	static
+../Lib/DHT11/DHT11.c:21:10:DHT11_IN	8	static
+../Lib/DHT11/DHT11.c:36:6:delay_us	24	static
+../Lib/DHT11/DHT11.c:85:6:DHT11_Start	8	static
+../Lib/DHT11/DHT11.c:110:9:DHT11_check_state	16	static
+../Lib/DHT11/DHT11.c:142:9:DHT11_Read_Byte	24	static
+../Lib/DHT11/DHT11.c:188:9:DHT11_ReadData	40	static

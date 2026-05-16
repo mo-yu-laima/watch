@@ -1,0 +1,33 @@
+{
+    "cmake.cmakePath": "cube-cmake",
+    "cmake.configureArgs": [
+        "-DCMAKE_COMMAND=cube-cmake"
+    ],
+    "cmake.preferredGenerators": [
+        "Ninja"
+    ],
+    "stm32cube-ide-clangd.path": "cube",
+    "stm32cube-ide-clangd.arguments": [
+        "starm-clangd",
+        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc.exe",
+        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-g++.exe"
+    ],
+    "files.associations": {
+        "ir_rec.h": "c",
+        "buzzer.h": "c",
+        "showtimer.h": "c",
+        "mydata.h": "c",
+        "main.h": "c",
+        "queue.h": "c",
+        "timers.h": "c",
+        "iwdg.h": "c",
+        "dht11.h": "c",
+        "cmsis_os2.h": "c",
+        "stdint.h": "c",
+        "showdht11task.h": "c",
+        "u8g2.h": "c",
+        "showrgbtask.h": "c",
+        "cmsis_os.h": "c",
+        "task.h": "c"
+    }
+}

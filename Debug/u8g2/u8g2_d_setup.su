@@ -1,0 +1,2 @@
+../u8g2/u8g2_d_setup.c:8:6:u8g2_Setup_ssd1306_i2c_128x64_noname_f	32	static
+../u8g2/u8g2_d_setup.c:17:9:u8g2_stm32_delay	8	static

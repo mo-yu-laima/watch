@@ -1,0 +1,6 @@
+../Lib/IR_rec/IR_rec.c:28:6:IR_Init	1
+../Lib/IR_rec/IR_rec.c:48:6:HAL_TIM_IC_CaptureCallback	18
+../Lib/IR_rec/IR_rec.c:128:9:IR_GetData	2
+../Lib/IR_rec/IR_rec.c:152:10:IR_GetAddress	1
+../Lib/IR_rec/IR_rec.c:171:10:IR_GetCommand	1
+../Lib/IR_rec/IR_rec.c:192:9:IR_GetRepeatFlag	2

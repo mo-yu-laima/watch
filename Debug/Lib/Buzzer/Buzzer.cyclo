@@ -1,0 +1,5 @@
+../Lib/Buzzer/Buzzer.c:18:6:Reset_Timer	1
+../Lib/Buzzer/Buzzer.c:36:6:Buzzer_init	1
+../Lib/Buzzer/Buzzer.c:52:6:Buzzer_set_freq	4
+../Lib/Buzzer/Buzzer.c:80:9:Buzzer_stop	1
+../Lib/Buzzer/Buzzer.c:90:6:buzzer	1
